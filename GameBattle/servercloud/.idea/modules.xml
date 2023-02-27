@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gameserver/gameserver.iml" filepath="$PROJECT_DIR$/gameserver/gameserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matchingsystem/matchingsystem.iml" filepath="$PROJECT_DIR$/matchingsystem/matchingsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robotrunningsystem/robotrunningsystem.iml" filepath="$PROJECT_DIR$/robotrunningsystem/robotrunningsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servercloud.iml" filepath="$PROJECT_DIR$/servercloud.iml" />
+    </modules>
+  </component>
+</project>
